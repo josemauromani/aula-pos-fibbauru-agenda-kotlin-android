@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nome">Nome:</string>
+    <string name="endere_o">Endereço:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="site">Site:</string>
+    <string name="email">Email:</string>
+    <string name="data_nascimento">Data Nascimento:</string>
+    <string name="data">data</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_contato">Rola</string>
+</resources>
